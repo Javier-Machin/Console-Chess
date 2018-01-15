@@ -1,0 +1,26 @@
+﻿Module PantallaTitulo
+    Sub impresion_titulo()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine("             ___ _   _| |_ _ __ ___    ___| |__   ___  ___ ___  ")
+        Console.WriteLine("            / __| | | | __| '__/ _ \  / __| '_ \ / _ \/ __/ __| ")
+        Console.WriteLine("           | (__| |_| | |_| | |  __/ | (__| | | |  __/\__ \__ \ ")
+        Console.WriteLine("            \___|\__,_|\__|_|  \___|  \___|_| |_|\___||___/___/ ")
+        Console.WriteLine()
+        Console.WriteLine("                        ____    ___   _   ____  ")
+        Console.WriteLine("                       |___ \  / _ \ / | | ___|  ")
+        Console.WriteLine("                         __) |  | |  | | |___ \  ")
+        Console.WriteLine("                        / __/|  |_|  | |  ___) | ")
+        Console.WriteLine("                       |_____| \___/ |_|  ____/  ")
+
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.WriteLine()
+        Console.ReadLine()
+    End Sub
+End Module

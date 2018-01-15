@@ -1,0 +1,9 @@
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\bin\Release\AjedrezFinal.exe
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\bin\Release\AjedrezFinal.pdb
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\bin\Release\AjedrezFinal.xml
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\obj\Release\ResolveAssemblyReference.cache
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\obj\Release\ConsoleApplication1.Resources.resources
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\obj\Release\AjedrezFinal.vbproj.GenerateResource.Cache
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\obj\Release\AjedrezFinal.exe
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\obj\Release\AjedrezFinal.xml
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinal\AjedrezFinal\obj\Release\AjedrezFinal.pdb

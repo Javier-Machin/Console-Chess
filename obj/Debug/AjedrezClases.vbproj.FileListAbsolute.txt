@@ -1,0 +1,45 @@
+G:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.exe
+G:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.xml
+G:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.pdb
+F:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.exe
+F:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.xml
+F:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.pdb
+F:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.exe
+F:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.pdb
+F:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.xml
+F:\AjedrezF\AjedrezFinal\obj\Debug\ResolveAssemblyReference.cache
+F:\AjedrezF\AjedrezFinal\obj\Debug\ConsoleApplication1.Resources.resources
+F:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezClases.vbproj.GenerateResource.Cache
+C:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.exe
+C:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.xml
+C:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezFinal.pdb
+C:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.exe
+C:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.pdb
+C:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.xml
+C:\AjedrezF\AjedrezFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\AjedrezF\AjedrezFinal\obj\Debug\ConsoleApplication1.Resources.resources
+C:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezClases.vbproj.GenerateResource.Cache
+G:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.exe
+G:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.pdb
+G:\AjedrezF\AjedrezFinal\bin\Debug\AjedrezFinal.xml
+G:\AjedrezF\AjedrezFinal\obj\Debug\ResolveAssemblyReference.cache
+G:\AjedrezF\AjedrezFinal\obj\Debug\ConsoleApplication1.Resources.resources
+G:\AjedrezF\AjedrezFinal\obj\Debug\AjedrezClases.vbproj.GenerateResource.Cache
+G:\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezFinal.exe
+G:\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezFinal.xml
+G:\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezFinal.pdb
+G:\AjedrezFinalClases\AjedrezFinal\bin\Debug\AjedrezFinal.exe
+G:\AjedrezFinalClases\AjedrezFinal\bin\Debug\AjedrezFinal.pdb
+G:\AjedrezFinalClases\AjedrezFinal\bin\Debug\AjedrezFinal.xml
+G:\AjedrezFinalClases\AjedrezFinal\obj\Debug\ResolveAssemblyReference.cache
+G:\AjedrezFinalClases\AjedrezFinal\obj\Debug\ConsoleApplication1.Resources.resources
+G:\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezClases.vbproj.GenerateResource.Cache
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezFinal.exe
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezFinal.xml
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezFinal.pdb
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\bin\Debug\AjedrezFinal.exe
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\bin\Debug\AjedrezFinal.pdb
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\bin\Debug\AjedrezFinal.xml
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\obj\Debug\ConsoleApplication1.Resources.resources
+E:\Users\Administrator\Documents\Visual Studio 2008\Projects\AjedrezFinalClases\AjedrezFinal\obj\Debug\AjedrezClases.vbproj.GenerateResource.Cache
