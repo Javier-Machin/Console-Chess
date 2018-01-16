@@ -1,4 +1,4 @@
-This project is actually 3 years older than all the web development projects as it was made when I first started learning to code locally in an academy in my town.
+This project is actually 3 years older than all the web development projects as it was made when I first started learning to code locally in an academy in my town. Please Be advised that, even while its heavily commented, the code is hard to follow sometimes, algorithms are more complex than they needed to be and some functions should have been split in smaller simpler ones.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
